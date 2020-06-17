@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+#contain{text-align:center; padding-top:4px;}
+/*main*/
+.main{width:1203px; margin:0px auto; background:#ffffff;}
+.main_left{ float:left; display:inline; width:980px; padding:8px; padding-bottom:0px; }
+.hd-tab {
+    width: 972px;
+
+    height: 40px;
+    line-height: 40px;
+    background: #FDF2DC;
+    color: #AD1B1B;
+    font-size: 15px;
+    text-align: center;
+	 margin:8px 0px;
+}
+/*top*/
+.top{width:885px; height:101px;}
+.top_left{ float:left; display:inline; width:219px;height:101px;background: #fdf2dc;}
+.top_right{ float:right; display:inline; width:660px;height:101px;}
+.top_right .l{ width:478px; display:inline;}
+.top_right .r{ width:0px; display:inline;}
+.top_right ul{ margin-top:-1px;}
+.top_right ul li{ width:87px; height:33px; margin-top:1px;}
+.top_right ul li a{ display:block; width:77px; height:33px; background:url("../images/css/top_li_sbg.jpg.html") no-repeat; margin-top:1px; line-height:33px; padding-left:10px; background:#fcf5e0;}
+.top_right ul li a:hover{ display:block; width:77px; height:33px; background:url("../images/css/top_li_sbg.jpg.html") no-repeat; margin-top:1px; line-height:33px; padding-left:10px; background:  #d3b37f; color:#fff;}
+.top_right ul li.act a{ display:block; width:77px; height:33px; background:url("../images/css/top_li_sbg.jpg.html") no-repeat; margin-top:1px; line-height:33px; padding-left:10px; background:  #d3b37f; color:#fff;}
+
+/*teacher_list_box*/
+.teacher_list_box{}
+.nav01{ border-bottom:1px solid #ff8500 ; height:46px; line-height:46px;}
+.nav01 .l{ color:#5a5a5a; width:430px; display:inline;}
+.nav01 .l span{ font-size:14px; font-weight:800; color:#5a5a5a; padding:0px 10px;}
+.nav01 .l a{ font-size:12px; font-weight:400; color:#206dbc; padding:0px 3px;}
+.nav01 .r{ color:#5a5a5a; width:139px; display:inline; height:28px; margin-top:10px; margin-right:5px;}
+.nav01 .r span.search{ width:135px; height:26px; display:block; background:url("../images/css/search_bg.jpg") no-repeat; padding-top:2px; padding-left:4px; _padding-top:3px;_height:25px;}
+.nav01 .r span.search a{ display:inline-block; width:30px; height:24px; line-height:24px;}
+
+
+
+.teacher_list_nr{}
+.teacher_list_nr ul li{ height:137px; border-bottom:1px solid #eceae1;}
+.teacher_list_nr ul li .l{ display:inline; width:96px; margin-top:18px; border:1px solid #cdcbcc; height:96px; padding:1px; margin-left:18px;}
+.teacher_list_nr ul li .m{ float:left; display:inline; width:540px; margin-top:18px;height:96px; padding:1px; margin-left:10px;}
+
+.teacher_list_nr ul li .m .div01{ height:20px; line-height:20px; color:#8a8a8a;}
+.teacher_list_nr ul li .m .div01 span.teacher_name{ height:20px; line-height:20px; color:#5a5a5a; font-size:14px; font-weight:800;}
+.teacher_list_nr ul li .m .div01 span.span01{ color:#c41103;}
+.teacher_list_nr ul li .m .div01 span.online{ display:inline-block; height:16px; line-height:16px; width:33px; background:url("../images/css/online.jpg") no-repeat;}
+.teacher_list_nr ul li .m .div01 span.offline{ display:inline-block; height:16px; line-height:16px; width:33px; background:url("../images/css/offline.jpg") no-repeat;}
+.teacher_list_nr ul li .m .div01 span.busy{ display:inline-block; height:16px; line-height:16px; width:45px; background:url("../images/css/busy.jpg") no-repeat;}
+.teacher_list_nr ul li .m .div02{ color:#6a6a6a; line-height:22px; margin-top:5px;}
+.teacher_list_nr ul li .m .div03{ color:#6a6a6a; line-height:22px; margin-top:5px;}
+.teacher_list_nr ul li .m .div03 a{ display:inline-block; padding:0px 8px; color:#6a6a6a; border:1px solid #ded9d9; background:#fff; width:60px; text-align:center;}
+.teacher_list_nr ul li .m .div03 a:hover{ display:inline-block; padding:0px 8px; color:#6a6a6a; border:1px solid   #00c6be; background:#fff;width:60px; text-align:center;}
+.teacher_list_nr ul li .m .div03 a span{ display:none;}
+.teacher_list_nr ul li .m .div03 a:hover span{ display:block; position:absolute; width:168px; border:1px solid   #00c6be; background:#fff; padding:5px; margin-left:-9px; _margin-top:18px;_margin-left:-66px; text-align:left;}
+.teacher_list_nr ul li .m .div03 a:hover span font{ color:#206dbc;}
+.teacher_list_nr ul li .r{display:inline; width:90px; margin-top:30px;height:96px;}
+
+.teacher_list_nr ul li .r a{ display:block; width:87px; height:24px; line-height:24px; background: #ad1b1b;  color:#FFFFFF; margin-top:10px; text-align:center;}
+.teacher_list_nr ul li .r a:hover{ display:block; width:87px; height:24px; line-height:24px; background:  #00c6be;  color:#fff; margin-top:10px; text-align:center;}
+.teacher_list_nr ul li:hover{ height:137px; border-bottom:1px solid #eceae1; background:url("../images/css/teacher_list_li_sbg.jpg") repeat-x;}
+
+/*右边*/
+.main_right{ float:right; display:inline; width:199px;background:#ad1b1b; padding-left:5px; padding-bottom:40px; }
+.landing{ height:295px;}
+.landing_nav{font-size: 20px;color:#ffd289;padding: 11px 0px 0px 18px;font-weight: bold;}
+.landing_nr{ padding-left:18px;color:#ffd289;}
+.landing_nr .div01{ height:26px; line-height:26px;}
+.landing_nr .div02{ height:40px;}
+.landing_nr .div03{ height:40px;}
+.landing_nr .div04{ height:40px; margin-top:10px;}
+.landing_nr .div05{ height:40px; line-height:40px;}
+.landing_nr .div05 a{color:#ffd289;}
+.landing_nr .div06{ margin-top:5px; color:white;}
+.landing_nr .div07{ margin-top:13px;}
+.landing_nr .div07 a.a01{ display:inline-block; padding:1px 2px 0px 53px; height:18px; line-height:18px;background:url("../images/css/zhifubao.jpg") no-repeat; color:#ffccb1;}
+.landing_nr .div07 a.a02{ display:inline-block; padding:1px 2px 0px 18px; height:18px; line-height:18px;background:url("../images/css/qq_landing.png") no-repeat; color:#ffccb1;}
+.landing_nr .div07 a.a03{ display:inline-block; padding:1px 2px 0px 20px; height:18px; line-height:18px;background:url("../images/css/renren_landing.jpg") no-repeat; color:#ffccb1;}
+.landing_nr .div07 a.a04{ display:inline-block; padding:1px 2px 0px 20px; height:18px; line-height:18px;background:url("../images/css/weibo_landing.png") no-repeat; color:#ffccb1;}
+
+.application{ width:179px; height:32px; padding-left:18px; margin-top:15px;}
+.application a{ display:block; width:169px; height:32px; line-height:32px; background:url("../images/css/application_bg.jpg") no-repeat; text-align:center; font-size:14px; color:#ffd38c; font-weight:800;}
+.current_trad{padding-left:18px; padding-right:8px; width:171px;background:url("../images/css/fenxian_bg01.jpg") no-repeat top center; }
+.current_trad p{ height:56px; line-height:56px;color:white; font-size:14px; font-weight:800;}
+.current_trad ul{}
+.current_trad ul li{ font-size:12px; line-height:20px; color:#ffd289; height:60px; height:68px;}
+
+.new_teacher{width:179px; padding-left:11px; padding-right:8px;background:url("../images/css/fenxian_bg01.jpg") no-repeat top center;}
+.new_teacher_nav{ height:56px; line-height:56px;color:white; font-size:14px; font-weight:800; padding-left:7px; padding-right:2px;}
+.new_teacher ul{ display:block; }
+.new_teacher ul li{ float:left; width:50px; height:80px; margin-left:7px; display:inline; margin-top:7px; overflow:hidden;}
+.new_teacher ul li a img{width:44px; height:44px; border:3px solid #fee9c8;}
+.new_teacher ul li span{ display:block; text-align:center; height:30px; line-height:30px; color:white;}
+
+.main_footer{ width:1203px; margin:0px auto; height:120px; line-height:12px; background:url("../images/css/main_bottom_bg.jpg") no-repeat;background-color:#ffffff;
+}
