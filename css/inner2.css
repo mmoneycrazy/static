@@ -34,7 +34,7 @@
 .site .l{ color:#5a5a5a; width:530px; display:inline;}
 .site .l span{ font-size:14px; font-weight:800; color:#5a5a5a; padding:0px 10px;}
 .site .l span a{ font-size:14px; font-weight:800; color:#206dbc; padding:0px 10px;}
-.site .l span.span_landing{ height:46px; line-height:46px; display:inline-block; margin-left:10px; padding-left:30px; background:url("/yixue/images/css/landing_icon.jpg") no-repeat left center; font-size:16px; font-weight:800; color:#8b8b8b;}
+.site .l span.span_landing{ height:46px; line-height:46px; display:inline-block; margin-left:10px; padding-left:30px; background:url("yixue/images/css/landing_icon.jpg") no-repeat left center; font-size:16px; font-weight:800; color:#8b8b8b;}
 
 .site .l a{ font-size:12px; font-weight:400; color:#206dbc; padding:0px 3px;}
 .site .r{ color:#5a5a5a; display:inline; height:46px; line-height:46px; margin-right:5px;}
@@ -46,7 +46,7 @@
 
 .landing2{ padding:0px 5px;}
 .landing_left{ float:left; display:inline; width:580px;}
-.landing_right{ float:right; display:inline; width:185px;background:url("/yixue/images/css/landing_right_bg.jpg") no-repeat left center; height:420px;}
+.landing_right{ float:right; display:inline; width:185px;background:url("yixue/images/css/landing_right_bg.jpg") no-repeat left center; height:420px;}
 .landing_left .div01{ padding:40px 0px; margin-top:40px;}
 .landing_left .div01 table tr td{ height:35px;}
 .landing_left .div01 table tr td span{ }
@@ -66,7 +66,7 @@
 .xieyi{ padding:20px; background:#fff;}
 .xieyi_content{ border:1px solid #eeeeee; padding:20px; line-height:24px;}
 
-.inner_bottom{ height:12px; line-height:12px; width:1003px; background:url("/yixue/images/css/inner_bottom_bg.jpg") no-repeat;}
+.inner_bottom{ height:12px; line-height:12px; width:1003px; background:url("yixue/images/css/inner_bottom_bg.jpg") no-repeat;}
 
 /*3-2*/
 .goumai_fuwu{ border:1px solid #eaeaea; padding:10px 35px;}
@@ -85,7 +85,7 @@
 .yijian_fankui_left .div02 ul li .box01 b{ color:#236aba;}
 .yijian_fankui_left .div02 ul li .box02{ line-height:24px; margin-top:2px; height:50px; width:600px;}
 
-.yijian_fankui_right{ float:right; display:inline; width:294px; background:url("/yixue/images/css/yijian_right_bg.jpg") no-repeat left top;height:740px; padding:17px;}
+.yijian_fankui_right{ float:right; display:inline; width:294px; background:url("yixue/images/css/yijian_right_bg.jpg") no-repeat left top;height:740px; padding:17px;}
 .yijian_fankui_right .div01{ padding:25px 0px; color:#787878; line-height:30px; font-size:12px;}
 .yijian_fankui_right .div01 p b{ font-size:16px;}
 .yijian_fankui_right .div02{ margin-top:0px; border-top:1px solid #f2f2f2; padding:20px 0px;}
