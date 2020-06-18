@@ -39,7 +39,7 @@ body {
 	-o-background-size: cover;
 	-moz-background-size: cover;
 	-ms-background-size: cover;
-    background: url("https://cdn.jsdelivr.net/gh/mmoneycrazy/static@1.2/skin/p/login/login_1/images/banner.jpg")no-repeat 0px 0px;
+    background: url("https://cdn.jsdelivr.net/gh/mmoneycrazy/static@1.0.0/skin/p/login/login_1/images/banner.jpg")no-repeat 0px 0px;
     background-size:100%;
 	text-align: center;
 }
