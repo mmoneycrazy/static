@@ -3,8 +3,8 @@
 /*5-1*/
 .shenqing_teacher{}
 .shenqing_teacher .div01{ height:50px; margin-top:15px; padding-left:10px;}
-.shenqing_teacher .div01 span{ display:inline-block; margin-left:12px; width:173px; height:25px; line-height:25px; color:#27353f; text-align:center; background:url(../images/css/shenqing_li_bg.jpg) no-repeat;}
-.shenqing_teacher .div01 span.select{ display:inline-block; margin-left:12px; width:173px; height:25px; line-height:25px; color:#fff; text-align:center;background:url(../images/css/shenqing_li_sbg.jpg) no-repeat; font-weight:800;}
+.shenqing_teacher .div01 span{ display:inline-block; margin-left:12px; width:173px; height:25px; line-height:25px; color:#27353f; text-align:center; background:url(../images/shenqing_li_bg.jpg) no-repeat;}
+.shenqing_teacher .div01 span.select{ display:inline-block; margin-left:12px; width:173px; height:25px; line-height:25px; color:#fff; text-align:center;background:url(../images/shenqing_li_sbg.jpg) no-repeat; font-weight:800;}
 .shenqing_teacher .div02{ height:40px; line-height:20px; color:#5a5a5a; padding-left:20px; border-bottom:1px solid #f0f0f0;}
 .shenqing_teacher .div03{padding:20px 0px;}
 .shenqing_teacher .div03 table tr td{}
@@ -24,10 +24,10 @@
 .site .r a{ color:#236aba;}
 
 .site .search{ float:right;color:#5a5a5a; width:139px; display:inline; height:28px; margin-top:10px; margin-right:5px;}
-.site .search span{ width:135px; height:26px; display:block; background:url(../images/css/search_bg.jpg) no-repeat; padding-top:2px; padding-left:4px; _padding-top:3px;_height:25px;}
+.site .search span{ width:135px; height:26px; display:block; background:url(../images/search_bg.jpg) no-repeat; padding-top:2px; padding-left:4px; _padding-top:3px;_height:25px;}
 .site .search span a{ display:inline-block; width:30px; height:24px; line-height:24px; font-size:14px; font-weight:800;}
 
-.user_teacher_nav{ height:34px; background:url(../images/css/teacher_center_navbg.jpg) repeat-x; margin-top:10px; padding-left:10px;}
+.user_teacher_nav{ height:34px; background:url(../images/teacher_center_navbg.jpg) repeat-x; margin-top:10px; padding-left:10px;}
 
 .user_teacher_nav ul li{ display:inline; width:86px; float:left; margin-left:10px; height:34px; }
 .user_teacher_nav ul li a{ display:block;width:84px; height:32px; line-height:32px; border:1px solid #e9e9e9; text-align:center; color:#5a5a5a; }
@@ -59,7 +59,7 @@
 .gerenxinxi04 table tr td{ height:55px; font-size:14px; color:#787878;}
 .gerenxinxi04 table tr td input,option,select{ color:#949494;}
 
-.main_right{ float:right; display:inline; width:199px;background:url(../images/css/main_right_bg.jpg) repeat-y; padding-left:5px; padding-bottom:0px; }
+.main_right{ float:right; display:inline; width:199px;background:url(../images/main_right_bg.jpg) repeat-y; padding-left:5px; padding-bottom:0px; }
 
 /*我的私信*/
 .sixin01{padding:0px;}
@@ -78,7 +78,7 @@
 
 /*购买尔雅币*/
 
-.zhifu_nav{ height:34px; background:url(../images/css/teacher_center_navbg.jpg) repeat-x; margin-top:10px; padding-left:10px;}
+.zhifu_nav{ height:34px; background:url(../images/teacher_center_navbg.jpg) repeat-x; margin-top:10px; padding-left:10px;}
 
 .zhifu_nav ul li{ display:inline; width:106px; float:left; margin-left:10px; height:34px; }
 .zhifu_nav ul li a{ display:block; width:104px; height:32px; line-height:32px; border:1px solid #e9e9e9; text-align:center; color:#5a5a5a; font-weight:800; font-size:14px; overflow:hidden;}
@@ -125,14 +125,14 @@
 .services_content ul li p span.span02{ display:block; line-height:18px; height:60px; color:#8a8987; padding:0px 20px; text-align:center; font-size:14px; margin-top:5px;}
 .services_content ul li p span.span03{ display:block; line-height:18px; height:40px; color:#81582d; padding:0px 20px; text-align:center; font-size:14px;}
 .services_content ul li p span.span03 b{ font-size:20px; font-family:Arial, Helvetica, sans-serif;}
-.services_content ul li .div01{ display:block; height:35px; width:172px; line-height:35px; background:url(../images/css/goumai_bg.jpg) repeat-x; font-size:12px; text-align:center; color:#fff; font-weight:400;}
+.services_content ul li .div01{ display:block; height:35px; width:172px; line-height:35px; background:url(../images/goumai_bg.jpg) repeat-x; font-size:12px; text-align:center; color:#fff; font-weight:400;}
 .services_content ul li .div01 a{ color:#fff;font-size:12px;}
 .services_content ul li:hover p{ height:191px; width:170px; border:1px solid  #f44678 ; border-bottom:none;}
 .services_content ul li:hover p.yuce{ background:url(/zaixianyuce/images/css/online_yuce_sbg.jpg) no-repeat;}
 .services_content ul li:hover p.fengshui{ background:url(/zaixianyuce/images/css/online_fengshui_sbg.jpg) no-repeat;}
 .services_content ul li:hover p.qiming{ background:url(/zaixianyuce/images/css/online_qiming_sbg.jpg) no-repeat;}
 .services_content ul li:hover p.jiaoxue{ background:url(/zaixianyuce/images/css/online_jiaoxue_sbg.jpg) no-repeat;}
-.services_content ul li:hover .div01{ display:block; height:35px; width:172px; line-height:35px; background:url(../images/css/goumai_sbg.jpg) repeat-x; font-size:12px; text-align:center; color:#fff; font-weight:400;}
+.services_content ul li:hover .div01{ display:block; height:35px; width:172px; line-height:35px; background:url(../images/goumai_sbg.jpg) repeat-x; font-size:12px; text-align:center; color:#fff; font-weight:400;}
 .services_content ul li:hover p span.span01{ line-height:26px; display:block; font-weight:400; color: #2e72b1; font-size:20px; text-align:center; padding:0px 20px; padding-top:25px; height:60px; font-family:"\5FAE\8F6F\96C5\9ED1";}
 
 /*6-6-1*/
@@ -180,7 +180,7 @@
 
 .shoucang_teacher ul li .r a{ display:block; width:87px; height:24px; line-height:24px; background:  #9cd1cf;  color:#81582d; margin-top:10px; text-align:center;}
 .shoucang_teacher ul li .r a:hover{ display:block; width:87px; height:24px; line-height:24px; background:  #faf2f2 ;  color:#fff; margin-top:10px; text-align:center;}
-.shoucang_teacher ul li:hover{ height:137px; border-bottom:1px solid #eceae1; background:url(../images/css/teacher_list_li_sbg.jpg) repeat-x;}
+.shoucang_teacher ul li:hover{ height:137px; border-bottom:1px solid #eceae1; background:url(../images/teacher_list_li_sbg.jpg) repeat-x;}
 
 
 /*7-2*/
